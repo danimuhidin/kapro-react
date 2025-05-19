@@ -1,4 +1,5 @@
-# React + Vite
+# Kapro | Kalkulasi Proyek
+## Kapro adalah aplikasi web yang digunakan untuk menghitung biaya proyek. Kapro adalah singkatan dari Kalkulasi Proyek. Kapro dapat digunakan oleh kontraktor, arsitek, dan pemilik proyek untuk menghitung biaya proyek secara akurat dan efisien.
 
 How to run this project
 1. Clone the repository
